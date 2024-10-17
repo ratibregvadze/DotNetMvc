@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KiSyBoPNDS00m8It92VPFMYPdpCBW9nwFsx6+rQCUyu+xRTDTpnodJrmwU9eQIlmicpDXgIIxoZBIcKeclBcZg==",
+  "dgSpecHash": "pSmOkN2i4FC3id7jJ7IEHivteAiCZKIK2zQW/1gyUGCTbBuuXkMXQkSMC9H9nuPbwasLeO8Kaiu4n5goeVRdrw==",
   "success": true,
-  "projectFilePath": "/Users/rati/Desktop/MyMvcApp/MyMvcApp.csproj",
+  "projectFilePath": "/Users/rati/Desktop/MyMvcApp/MvcApp/MyMvcApp.csproj",
   "expectedPackageFiles": [
     "/Users/rati/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/rati/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",

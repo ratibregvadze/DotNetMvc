@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rati/Desktop/MyMvcApp/MyMvcApp.csproj": {}
+    "/Users/rati/Desktop/MyMvcApp/MvcApp/MyMvcApp.csproj": {}
   },
   "projects": {
-    "/Users/rati/Desktop/MyMvcApp/MyMvcApp.csproj": {
+    "/Users/rati/Desktop/MyMvcApp/MvcApp/MyMvcApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rati/Desktop/MyMvcApp/MyMvcApp.csproj",
+        "projectUniqueName": "/Users/rati/Desktop/MyMvcApp/MvcApp/MyMvcApp.csproj",
         "projectName": "MyMvcApp",
-        "projectPath": "/Users/rati/Desktop/MyMvcApp/MyMvcApp.csproj",
+        "projectPath": "/Users/rati/Desktop/MyMvcApp/MvcApp/MyMvcApp.csproj",
         "packagesPath": "/Users/rati/.nuget/packages/",
-        "outputPath": "/Users/rati/Desktop/MyMvcApp/obj/",
+        "outputPath": "/Users/rati/Desktop/MyMvcApp/MvcApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rati/.nuget/NuGet/NuGet.Config"
