@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 
 
-namespace BulkyBook.Models
+namespace MvcApp.Models
 {
     public class Product
     {
