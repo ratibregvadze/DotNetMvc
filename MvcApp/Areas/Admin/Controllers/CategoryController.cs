@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace MvcApp.Controllers
 {
+    [Area("Admin")]
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
