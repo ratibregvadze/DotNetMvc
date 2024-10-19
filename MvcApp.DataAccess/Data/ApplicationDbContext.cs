@@ -1,7 +1,7 @@
-using MyMvcApp.Models;
+using MvcApp.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace MyMvcApp.Data
+namespace MvcApp.DataAccess.Data
 {
     public class ApplicationDbContext : DbContext
     {

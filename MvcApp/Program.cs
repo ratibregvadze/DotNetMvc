@@ -1,4 +1,4 @@
-using MyMvcApp.Data;
+using MvcApp.DataAccess.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

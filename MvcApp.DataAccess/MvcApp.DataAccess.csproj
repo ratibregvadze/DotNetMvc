@@ -6,4 +6,17 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.8"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="8.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.8"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.8"/>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../MvcApp.Models/MvcApp.Models.csproj" />
+    <ProjectReference Include="../MvcApp.Utility/MvcApp.Utility.csproj" />
+    <ProjectReference Include="../MvcApp.Models/MvcApp.Models.csproj" />
+  </ItemGroup>
+
 </Project>

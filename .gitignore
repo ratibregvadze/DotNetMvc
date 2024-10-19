@@ -1,0 +1,14 @@
+# Ignore build output
+
+MvcApp/bin/
+MvcApp/obj/
+
+MvcApp.DataAccess/bin/
+MvcApp.DataAccess/obj/
+
+MvcApp.Models/bin/
+MvcApp.Models/obj/
+
+MvcApp.Utility/bin/
+MvcApp.Utility/obj/
+
